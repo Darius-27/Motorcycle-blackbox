@@ -4,14 +4,7 @@
 
 \<p align="center">
 &#x20; \<strong>Making Every Ride Safer Through Intelligent Monitoring and Connected Emergency Response\</strong>
-\</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Project-IoT%20%7C%20Smart%20Mobility-blue?style=for-the-badge](https://img.shields.io/badge/Project-IoT%20%7C%20Smart%20Mobility-blue?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Platform-Python%20%7C%20Streamlit-red?style=for-the-badge](https://img.shields.io/badge/Platform-Python%20%7C%20Streamlit-red?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Domain-Road%20Safety-green?style=for-the-badge](https://img.shields.io/badge/Domain-Road%20Safety-green?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)" />
-\</p>
 
 ---
 
